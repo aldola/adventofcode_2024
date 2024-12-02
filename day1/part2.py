@@ -1,4 +1,4 @@
-file = open("part2.txt", "r")
+file = open("day1.txt", "r")
 first_list = []
 second_list = []
 similarity_score = 0

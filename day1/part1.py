@@ -1,4 +1,4 @@
-file = open("part1.txt", "r")
+file = open("day1.txt", "r")
 first_list = []
 second_list = []
 distance = 0
